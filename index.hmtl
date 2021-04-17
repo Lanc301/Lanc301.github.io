@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <head>Web Page</head>
+    <head>
+        <title>
+            Web Page
+        </title>
+    </head>
     <body> 
         <h1>This is my Website!</h1>
     </body>
